@@ -1,8 +1,15 @@
-# Chapter 19 — Coming Soon
+# Chapter 19 — Putting It All Together: Building Complete ML Systems
 
-This is a **placeholder**. Add your code files (`.py`) for this chapter here.
+This chapter turns everything into **full pipelines**: collect → clean → features → train → evaluate → predict → improve.
 
-## Suggested checklist
-- [ ] Add 3–8 short example programs
-- [ ] Keep files loop-free/function-free if this chapter hasn’t reached them yet
-- [ ] Update this README with a one-line description per file
+## What’s here
+- `utils/` — tiny reusable `KNNClassifier`
+- `data/` — small CSVs (offline-friendly)
+- `pipeline/` — student grades end‑to‑end
+- `recommendations/` — toy movie recommender (user KNN)
+- `medical/` — risk assistant with normalization + confidence
+- `try_it_yourself/` — 3 capstone starters
+- `solutions/` — solutions to the capstones
+- `replit/` — quick runner
+
+> Libraries: **numpy, pandas, matplotlib**. No seaborn.

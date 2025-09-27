@@ -1,0 +1,8 @@
+day,temp_F,humidity,wind_mph,condition
+1,35,40,8,cold
+30,50,35,10,cool
+60,65,50,8,mild
+120,85,75,6,hot
+200,88,80,12,hot
+260,70,65,10,mild
+320,45,50,14,cool

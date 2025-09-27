@@ -1,0 +1,7 @@
+age,systolic_bp,cholesterol,chest_pain,diagnosis
+12,95,140,0,Healthy
+15,105,150,0,Healthy
+38,130,210,1,Hypertension
+45,140,220,1,Hypertension
+65,165,260,1,HeartDisease
+70,175,280,1,HeartDisease
