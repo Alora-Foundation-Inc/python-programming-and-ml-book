@@ -1,8 +1,13 @@
-# Chapter 14 — Coming Soon
+# Chapter 14 — Coordinate Geometry in Action
 
-This is a **placeholder**. Add your code files (`.py`) for this chapter here.
+This chapter turns math into code: **points, distance, slope, and straight lines** — the building blocks behind plotting and machine learning. Each concept is implemented with **Pandas + Matplotlib**, and (optionally) a few **Turtle** demos for visual intuition.
 
-## Suggested checklist
-- [ ] Add 3–8 short example programs
-- [ ] Keep files loop-free/function-free if this chapter hasn’t reached them yet
-- [ ] Update this README with a one-line description per file
+## Folders
+- `fundamentals/` — coordinate plane, distance, slope, y=mx+b
+- `applications/` — sales trend line, emergency distance map, linear regression demo
+- `try_it_yourself/` — 3 project starters from the book
+- `solutions/` — worked solutions for the 3 projects
+- `turtle/` — optional visual versions (grid & slope intuition)
+- `replit/` — runner
+
+> All examples use plain Python with **matplotlib** (no seaborn), and short, readable code that fits a middle‑school audience.
