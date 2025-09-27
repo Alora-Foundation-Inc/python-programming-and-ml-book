@@ -1,6 +1,8 @@
 # Python Turtle & ML — Student Code
 
-> **Status:** Coming on 09-29-2025 🎉
+![Book Splash](Git_Cover.png)
+
+Welcome!
 
 This repository is organized by chapters. Each chapter has its own folder and a short `README.md`.
 Start by dropping your code files into the correct `chapter-XX/` folder.
