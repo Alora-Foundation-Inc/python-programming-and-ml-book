@@ -1,8 +1,10 @@
-# Chapter 06 — Coming Soon
+# Chapter 6 — User Input & Interactive Programming
 
-This is a **placeholder**. Add your code files (`.py`) for this chapter here.
+This chapter turns your code into a conversation with the user:
+- `input()`, `int()`, `float()`
+- decisions with `if/elif/else` and boolean logic
+- validation with `try/except`
+- interactive loops and simple menus
+- real-time keyboard/mouse events using `turtle.Screen` handlers
 
-## Suggested checklist
-- [ ] Add 3–8 short example programs
-- [ ] Keep files loop-free/function-free if this chapter hasn’t reached them yet
-- [ ] Update this README with a one-line description per file
+Many examples end with `screen.exitonclick()` or `screen.mainloop()`.
