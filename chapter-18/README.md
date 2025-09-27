@@ -1,8 +1,17 @@
-# Chapter 18 — Coming Soon
+# Chapter 18 — K-Nearest Neighbors (KNN): Classification
 
-This is a **placeholder**. Add your code files (`.py`) for this chapter here.
+In KNN, we look at the **k nearest neighbors** and let them **vote** on the label.
+This chapter keeps everything simple and visual: plots, tiny datasets, and a small
+`KNNClassifier` implemented from scratch.
 
-## Suggested checklist
-- [ ] Add 3–8 short example programs
-- [ ] Keep files loop-free/function-free if this chapter hasn’t reached them yet
-- [ ] Update this README with a one-line description per file
+## How this folder is organized
+- `basics/` – regression vs classification; a Turtle visual to show nearest-neighbor ideas
+- `distance/` – Euclidean distance in 2D and for many features
+- `choosing_k/` – compare predictions for different k values
+- `knn_class/` – a tiny classifier class plus a toy flower demo
+- `applications/` – medical screening, recommendation, and fraud toy demos
+- `try_it_yourself/` – three student projects (starters)
+- `solutions/` – worked solutions for the three projects
+- `replit/` – quick runner
+
+> Only `numpy` and `matplotlib` are used; Turtle is optional for visuals.
