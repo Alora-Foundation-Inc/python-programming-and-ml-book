@@ -1,8 +1,16 @@
-# Chapter 16 — Coming Soon
+# Chapter 16 — Linear Regression Visualized
 
-This is a **placeholder**. Add your code files (`.py`) for this chapter here.
+This chapter turns prediction ideas into code: **linear patterns, best‑fit lines, manual fitting,
+making predictions, and a tiny regression calculator**. We stick to **pandas**, **numpy**, and **matplotlib**
+(no seaborn). When SciPy is unavailable, examples fall back to **numpy.polyfit**.
 
-## Suggested checklist
-- [ ] Add 3–8 short example programs
-- [ ] Keep files loop-free/function-free if this chapter hasn’t reached them yet
-- [ ] Update this README with a one-line description per file
+## Folders
+- `fundamentals/` — linear relationships (pizza, study)
+- `best_fit/` — why we need a best‑fit line
+- `manual_fit/` — estimate a line by hand
+- `predictions/` — use a line to predict new values
+- `toolbox/` — linregress demo with graceful fallback
+- `builder/` — a simple, from‑scratch regression calculator
+- `try_it_yourself/` — three challenge starters from the book
+- `solutions/` — worked solutions for the three challenges
+- `replit/` — quick runner
